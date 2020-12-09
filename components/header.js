@@ -11,10 +11,10 @@ export default function Header() {
             <div class="hidden lg:block lg:ml-6">
               <div class="flex space-x-4">
                 {/* Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" */}
-                <a href="#" class="text-indigo-800 px-3 py-2 text-sm font-medium">Dashboard</a>
-                <a href="#" class="text-gray-900 hover:text-indigo-800 px-3 py-2 rounded-md text-sm font-medium">Team</a>
-                <a href="#" class="text-gray-900 hover:text-indigo-800 px-3 py-2 rounded-md text-sm font-medium">Projects</a>
-                <a href="#" class="text-gray-900 hover:text-indigo-800 px-3 py-2 rounded-md text-sm font-medium">Calendar</a>
+                <a href="#" class="text-indigo-800 px-3 py-2 text-sm font-medium">Home</a>
+                <a href="#" class="text-gray-900 hover:text-indigo-800 px-3 py-2 rounded-md text-sm font-medium">Features</a>
+                <a href="#" class="text-gray-900 hover:text-indigo-800 px-3 py-2 rounded-md text-sm font-medium">Pricing</a>
+                <a href="#" class="text-gray-900 hover:text-indigo-800 px-3 py-2 rounded-md text-sm font-medium">Contact</a>
               </div>
             </div>
           </div>
