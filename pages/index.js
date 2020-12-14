@@ -4,12 +4,12 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Create Next App</title>
+        <title>MVP Stack - Home</title>
       </Head>
 
       <main>
         <h1>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Build something awesome!
         </h1>
       </main>
     </>

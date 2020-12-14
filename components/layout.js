@@ -11,10 +11,10 @@ export default class Layout extends Component {
         <Head>
           <link rel="stylesheet" href="https://rsms.me/inter/inter.css" />
         </Head>
-        <div class="flex flex-col h-screen justify-between bg-gray-50">
+        <div className="flex flex-col h-screen justify-between bg-gray-50">
           <Header />
-          <div class="h-full">
-            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+          <div className="h-full">
+            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
               {children}
             </div>
           </div>
